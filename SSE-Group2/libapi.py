@@ -2,11 +2,19 @@ import libuser
 import random
 import hashlib
 
+# Added by SSE_Group_2:
+# Added the secrets module for generating secure tokens.
+import secrets
+
 from pathlib import Path
 
+key_value = secrets.token_hex(16)
+# using secrets to generate a random 16-character hex string
+secret = key_value  # this used to be hardcoded as'MYSUPERSECRETKEY'
+not_after = 60  # 1 minute
 
-def keygen(username, password=None):
 
+def keygen(username, password=None, login=True):
     if password:
         if not libuser.login(username, password):
             return None
