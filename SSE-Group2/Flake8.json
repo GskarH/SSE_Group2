@@ -1,0 +1,114 @@
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libsession.py[m[36m:[m30[36m:[m1[36m:[m [1m[31mW391[m blank line at end of file
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/api_list.py[m[36m:[m1[36m:[m1[36m:[m [1m[31mF401[m 'pathlib.Path' imported but unused
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/api_list.py[m[36m:[m6[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libapi.py[m[36m:[m37[36m:[m1[36m:[m [1m[31mW391[m blank line at end of file
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libmfa.py[m[36m:[m3[36m:[m1[36m:[m [1m[31mF401[m 'time.sleep' imported but unused
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libmfa.py[m[36m:[m5[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libmfa.py[m[36m:[m12[36m:[m80[36m:[m [1m[31mE501[m line too long (107 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libmfa.py[m[36m:[m27[36m:[m80[36m:[m [1m[31mE501[m line too long (81 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libmfa.py[m[36m:[m35[36m:[m5[36m:[m [1m[31mE265[m block comment should start with '# '
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libmfa.py[m[36m:[m42[36m:[m5[36m:[m [1m[31mE265[m block comment should start with '# '
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libmfa.py[m[36m:[m42[36m:[m80[36m:[m [1m[31mE501[m line too long (82 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libmfa.py[m[36m:[m43[36m:[m80[36m:[m [1m[31mE501[m line too long (81 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libmfa.py[m[36m:[m51[36m:[m5[36m:[m [1m[31mE265[m block comment should start with '# '
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libmfa.py[m[36m:[m58[36m:[m5[36m:[m [1m[31mE265[m block comment should start with '# '
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libmfa.py[m[36m:[m58[36m:[m80[36m:[m [1m[31mE501[m line too long (82 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libmfa.py[m[36m:[m59[36m:[m80[36m:[m [1m[31mE501[m line too long (87 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libmfa.py[m[36m:[m62[36m:[m34[36m:[m [1m[31mE261[m at least two spaces before inline comment
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libmfa.py[m[36m:[m62[36m:[m35[36m:[m [1m[31mE262[m inline comment should start with '# '
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libmfa.py[m[36m:[m69[36m:[m11[36m:[m [1m[31mE225[m missing whitespace around operator
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libmfa.py[m[36m:[m76[36m:[m5[36m:[m [1m[31mE265[m block comment should start with '# '
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libmfa.py[m[36m:[m76[36m:[m80[36m:[m [1m[31mE501[m line too long (82 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libmfa.py[m[36m:[m77[36m:[m5[36m:[m [1m[31mE265[m block comment should start with '# '
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libmfa.py[m[36m:[m77[36m:[m80[36m:[m [1m[31mE501[m line too long (88 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libmfa.py[m[36m:[m78[36m:[m80[36m:[m [1m[31mE501[m line too long (87 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libmfa.py[m[36m:[m81[36m:[m5[36m:[m [1m[31mE265[m block comment should start with '# '
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libmfa.py[m[36m:[m83[36m:[m5[36m:[m [1m[31mE265[m block comment should start with '# '
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libmfa.py[m[36m:[m96[36m:[m1[36m:[m [1m[31mW391[m blank line at end of file
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_posts.py[m[36m:[m1[36m:[m1[36m:[m [1m[31mF401[m 'sqlite3' imported but unused
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_posts.py[m[36m:[m21[36m:[m80[36m:[m [1m[31mE501[m line too long (90 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_posts.py[m[36m:[m38[36m:[m1[36m:[m [1m[31mW391[m blank line at end of file
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/api_post.py[m[36m:[m8[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/api_post.py[m[36m:[m16[36m:[m76[36m:[m [1m[31mE231[m missing whitespace after ':'
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/api_post.py[m[36m:[m16[36m:[m80[36m:[m [1m[31mE501[m line too long (107 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/api_post.py[m[36m:[m16[36m:[m97[36m:[m [1m[31mE231[m missing whitespace after ':'
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/api_post.py[m[36m:[m19[36m:[m80[36m:[m [1m[31mE501[m line too long (110 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/api_post.py[m[36m:[m23[36m:[m9[36m:[m [1m[31mE303[m too many blank lines (2)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/api_post.py[m[36m:[m30[36m:[m69[36m:[m [1m[31mE231[m missing whitespace after ':'
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/api_post.py[m[36m:[m30[36m:[m80[36m:[m [1m[31mE501[m line too long (109 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/brute.py[m[36m:[m21[36m:[m80[36m:[m [1m[31mE501[m line too long (85 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/brute.py[m[36m:[m25[36m:[m1[36m:[m [1m[31mW391[m blank line at end of file
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/db.py[m[36m:[m5[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/db.py[m[36m:[m18[36m:[m10[36m:[m [1m[31mE231[m missing whitespace after ','
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/db.py[m[36m:[m19[36m:[m80[36m:[m [1m[31mE501[m line too long (102 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/db.py[m[36m:[m19[36m:[m93[36m:[m [1m[31mE225[m missing whitespace around operator
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/db.py[m[36m:[m27[36m:[m1[36m:[m [1m[31mW391[m blank line at end of file
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libposts.py[m[36m:[m3[36m:[m1[36m:[m [1m[31mF401[m 'sys' imported but unused
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libposts.py[m[36m:[m14[36m:[m80[36m:[m [1m[31mE501[m line too long (105 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libposts.py[m[36m:[m16[36m:[m14[36m:[m [1m[31mE201[m whitespace after '['
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libposts.py[m[36m:[m16[36m:[m57[36m:[m [1m[31mE202[m whitespace before ']'
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libposts.py[m[36m:[m28[36m:[m5[36m:[m [1m[31mF841[m local variable 'rows' is assigned to but never used
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libposts.py[m[36m:[m28[36m:[m80[36m:[m [1m[31mE501[m line too long (159 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libposts.py[m[36m:[m28[36m:[m114[36m:[m [1m[31mE261[m at least two spaces before inline comment
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libposts.py[m[36m:[m28[36m:[m115[36m:[m [1m[31mE262[m inline comment should start with '# '
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libposts.py[m[36m:[m33[36m:[m1[36m:[m [1m[31mW391[m blank line at end of file
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_mfa.py[m[36m:[m25[36m:[m80[36m:[m [1m[31mE501[m line too long (105 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_mfa.py[m[36m:[m32[36m:[m80[36m:[m [1m[31mE501[m line too long (89 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m1[36m:[m1[36m:[m [1m[31mF401[m 'flask.render_template' imported but unused
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m1[36m:[m1[36m:[m [1m[31mF401[m 'flask.redirect' imported but unused
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m1[36m:[m1[36m:[m [1m[31mF401[m 'flask.g' imported but unused
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m1[36m:[m1[36m:[m [1m[31mF401[m 'flask.session' imported but unused
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m1[36m:[m1[36m:[m [1m[31mF401[m 'flask.make_response' imported but unused
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m1[36m:[m1[36m:[m [1m[31mF401[m 'flask.flash' imported but unused
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m1[36m:[m80[36m:[m [1m[31mE501[m line too long (106 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m2[36m:[m1[36m:[m [1m[31mF401[m 'libuser' imported but unused
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m3[36m:[m1[36m:[m [1m[31mF401[m 'libsession' imported but unused
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m12[36m:[m11[36m:[m [1m[31mE203[m whitespace before ':'
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m13[36m:[m18[36m:[m [1m[31mE201[m whitespace after '['
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m13[36m:[m41[36m:[m [1m[31mE202[m whitespace before ']'
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m14[36m:[m17[36m:[m [1m[31mE203[m whitespace before ':'
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m15[36m:[m19[36m:[m [1m[31mE203[m whitespace before ':'
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m15[36m:[m29[36m:[m [1m[31mE203[m whitespace before ':'
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m16[36m:[m19[36m:[m [1m[31mE203[m whitespace before ':'
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m16[36m:[m29[36m:[m [1m[31mE203[m whitespace before ':'
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m22[36m:[m11[36m:[m [1m[31mE203[m whitespace before ':'
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m23[36m:[m18[36m:[m [1m[31mE201[m whitespace after '['
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m23[36m:[m25[36m:[m [1m[31mE202[m whitespace before ']'
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m24[36m:[m17[36m:[m [1m[31mE203[m whitespace before ':'
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m25[36m:[m15[36m:[m [1m[31mE203[m whitespace before ':'
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m25[36m:[m25[36m:[m [1m[31mE203[m whitespace before ':'
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m57[36m:[m13[36m:[m [1m[31mE201[m whitespace after '{'
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m57[36m:[m24[36m:[m [1m[31mE203[m whitespace before ':'
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m57[36m:[m55[36m:[m [1m[31mE202[m whitespace before '}'
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_api.py[m[36m:[m72[36m:[m1[36m:[m [1m[31mW391[m blank line at end of file
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/vulpy-ssl.py[m[36m:[m25[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/vulpy-ssl.py[m[36m:[m29[36m:[m1[36m:[m [1m[31mE305[m expected 2 blank lines after class or function definition, found 1
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/vulpy-ssl.py[m[36m:[m29[36m:[m80[36m:[m [1m[31mE501[m line too long (86 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/vulpy.py[m[36m:[m44[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/vulpy.py[m[36m:[m48[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_user.py[m[36m:[m1[36m:[m80[36m:[m [1m[31mE501[m line too long (97 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_user.py[m[36m:[m23[36m:[m46[36m:[m [1m[31mE703[m statement ends with a semicolon
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_user.py[m[36m:[m28[36m:[m37[36m:[m [1m[31mE703[m statement ends with a semicolon
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_user.py[m[36m:[m47[36m:[m9[36m:[m [1m[31mE265[m block comment should start with '# '
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_user.py[m[36m:[m56[36m:[m9[36m:[m [1m[31mE265[m block comment should start with '# '
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_user.py[m[36m:[m58[36m:[m9[36m:[m [1m[31mE265[m block comment should start with '# '
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_user.py[m[36m:[m80[36m:[m65[36m:[m [1m[31mE261[m at least two spaces before inline comment
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_user.py[m[36m:[m80[36m:[m80[36m:[m [1m[31mE501[m line too long (102 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_user.py[m[36m:[m84[36m:[m1[36m:[m [1m[31mW391[m blank line at end of file
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/db_init.py[m[36m:[m17[36m:[m80[36m:[m [1m[31mE501[m line too long (114 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/db_init.py[m[36m:[m19[36m:[m10[36m:[m [1m[31mE231[m missing whitespace after ','
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/db_init.py[m[36m:[m20[36m:[m80[36m:[m [1m[31mE501[m line too long (150 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/db_init.py[m[36m:[m20[36m:[m134[36m:[m [1m[31mE225[m missing whitespace around operator
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/db_init.py[m[36m:[m50[36m:[m1[36m:[m [1m[31mW391[m blank line at end of file
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libuser.py[m[36m:[m2[36m:[m1[36m:[m [1m[31mF401[m 'libuser' imported but unused
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libuser.py[m[36m:[m12[36m:[m80[36m:[m [1m[31mE501[m line too long (123 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libuser.py[m[36m:[m25[36m:[m80[36m:[m [1m[31mE501[m line too long (160 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libuser.py[m[36m:[m25[36m:[m130[36m:[m [1m[31mE225[m missing whitespace around operator
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libuser.py[m[36m:[m43[36m:[m17[36m:[m [1m[31mE201[m whitespace after '['
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libuser.py[m[36m:[m43[36m:[m52[36m:[m [1m[31mE202[m whitespace before ']'
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libuser.py[m[36m:[m53[36m:[m80[36m:[m [1m[31mE501[m line too long (98 > 79 characters)
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/libuser.py[m[36m:[m61[36m:[m1[36m:[m [1m[31mW391[m blank line at end of file
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_hello.py[m[36m:[m1[36m:[m1[36m:[m [1m[31mF401[m 'flask.render_template' imported but unused
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_hello.py[m[36m:[m1[36m:[m1[36m:[m [1m[31mF401[m 'flask.redirect' imported but unused
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_hello.py[m[36m:[m5[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1m/home/gskar/Desktop/Vulpy_StaticTest/Bad/mod_hello.py[m[36m:[m8[36m:[m1[36m:[m [1m[31mW391[m blank line at end of file
