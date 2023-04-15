@@ -1,5 +1,5 @@
 from flask import Blueprint, render_template, redirect
-from flask import request, g, session, make_response, flash
+from flask import request, g, session, make_response, flash, escape
 import libmfa
 import libuser
 import libsession
@@ -14,7 +14,9 @@ def do_login():
 
     if request.method == 'POST':
         username = request.form.get('username')
+        username = escape(username)
         password = request.form.get('password')
+        password = escape(password)
         otp = request.form.get('otp')
 
         # validate username and password
