@@ -11,12 +11,11 @@ mod_user = Blueprint('mod_user', __name__, template_folder='templates')
 def do_login():
     # clear session before each login attempt
     session.pop('username', None)
-
+## Escape () added to remove special characters
+## Changed by SSE_Group2
     if request.method == 'POST':
-        username = request.form.get('username')
-        username = escape(username)
-        password = request.form.get('password')
-        password = escape(password)
+        username = escape(request.form.get('username'))
+        password = escape(request.form.get('password'))
         otp = request.form.get('otp')
 
         # validate username and password
