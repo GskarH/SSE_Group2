@@ -34,6 +34,7 @@ def do_login():
         # create session for the authenticated user
         response = make_response(redirect('/'))
         response = libsession.create(response=response, username=username)
+        response = html.escape(response) # Changed by SSE_Group2
         return response
 
     return render_template('user.login.mfa.html')
